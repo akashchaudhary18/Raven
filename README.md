@@ -28,7 +28,7 @@ The goal is to improve public service response and promote transparent issue res
 ## Installation and Setup
 ### Clone this repo
 ```
- git clone https://github.com/ananthak803/janSeva
+ git clone https://github.com/akashchaudhary18/janSeva
  cd janSeva
 ```
 ### Frontend App setup
