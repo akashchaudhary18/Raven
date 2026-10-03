@@ -1,4 +1,4 @@
-# FullStack6Sem (Real-time Chat + WebRTC Calls)
+# FullStack (Real-time Chat + WebRTC Calls)
 
 This project is a real-time communication app with:
 - **Chat (DM + channels)** using **REST + MongoDB** and **real-time updates** using **Socket.io**
